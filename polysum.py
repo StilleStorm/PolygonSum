@@ -7,8 +7,6 @@ Created on Sun Mar  4 20:56:14 2018
 
 from math import pi as pi, tan as tan
 
-
-#defining function polucym (n, s)
 def polysum(n, s):
     """    
     function sums area and perimeter of a polygon,
